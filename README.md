@@ -77,8 +77,6 @@ Precision: Limiting false positives.
 
 F1-Score: Balancing recall and precision.
 
-PR-AUC: Preferred over ROC-AUC for imbalanced datasets.
-
 📈 Key Results
 
 The model achieved high recall, capturing the majority of fraudulent transactions.
@@ -109,13 +107,8 @@ Scikit-learn: Preprocessing, evaluation metrics
 
 XGBoost: Fraud detection model
 
-📂 Project Structure
-├── data/                  # Dataset (excluded due to size restrictions)
-├── notebooks/             # Jupyter notebooks for EDA and modeling
-├── README.md              # Project documentation
-
 🙌 Acknowledgements
 
-Dataset reference: [Kaggle - Fraud Detection Dataset].
+Dataset reference: [(https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset)].
 
 Special thanks to the open-source community for tools and frameworks.
